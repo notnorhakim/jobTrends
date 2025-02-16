@@ -1,0 +1,85 @@
+
+{
+	"advertiser": {
+		"id": "60253667",
+		"description": "ST Engineering Advanced Networks & Sensors Pte Ltd"
+	},
+	"area": "Jurong West",
+	"areaId": 2701507,
+	"areaWhereValue": "Jurong West West Region",
+	"automaticInclusion": false,
+	"branding": {
+		"id": "2d7102ac-8fda-429b-88a4-b4e43e92981a.1",
+		"assets": {
+			"logo": {
+				"strategies": {
+					"jdpLogo": "https://bx-branding-gateway.cloud.seek.com.au/2d7102ac-8fda-429b-88a4-b4e43e92981a.1/jdpLogo",
+					"serpLogo": "https://bx-branding-gateway.cloud.seek.com.au/2d7102ac-8fda-429b-88a4-b4e43e92981a.1/serpLogo"
+				}
+			}
+		}
+	},
+	"bulletPoints": [],
+	"classification": {
+		"id": "6281",
+		"description": "Information & Communication Technology"
+	},
+	"companyName": "ST Engineering",
+	"companyProfileStructuredDataId": 367886,
+	"displayStyle": {
+		"search": "A"
+	},
+	"displayType": "standout",
+	"listingDateDisplay": "7d ago",
+	"location": "West Region",
+	"locationId": 2070150,
+	"locationWhereValue": "West Region",
+	"id": 73731296,
+	"isPremium": false,
+	"isStandOut": true,
+	"jobLocation": {
+		"label": "Jurong West, West Region",
+		"countryCode": "SG",
+		"seoHierarchy": [
+			{
+				"contextualName": "Jurong West West Region"
+			},
+			{
+				"contextualName": "West Region"
+			}
+		]
+	},
+	"listingDate": "2024-02-14T06:54:57Z",
+	"logo": {
+		"id": "",
+		"description": null
+	},
+	"roleId": "software-developer",
+	"salary": "",
+	"searchInsights": {
+		"unmatchedKeywords": [
+			"engineer"
+		]
+	},
+	"solMetadata": {
+		"searchRequestToken": "e7274a3b-f5a5-4e92-8e36-3d1b517c7b0f",
+		"token": "0~e7274a3b-f5a5-4e92-8e36-3d1b517c7b0f",
+		"jobId": "73731296",
+		"section": "MAIN",
+		"sectionRank": 97,
+		"jobAdType": "ORGANIC",
+		"tags": {
+			"mordor__flights": "mordor_350",
+			"mordor__s": "0"
+		}
+	},
+	"subClassification": {
+		"id": "6287",
+		"description": "Developers/Programmers"
+	},
+	"teaser": "-",
+	"title": "Software Developer (DSC/TE)",
+	"tracking": "ewogICJ0b2tlbiI6ICI1YTFhMzE2YS03Yzk3LTQ2M2UtODViZS05Yjc2NWJmNjVhYmNfMSIKfQ==",
+	"workType": "Full time",
+	"isPrivateAdvertiser": false
+},
